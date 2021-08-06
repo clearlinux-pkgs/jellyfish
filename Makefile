@@ -1,5 +1,5 @@
 PKG_NAME := jellyfish
-URL = https://files.pythonhosted.org/packages/04/3f/d03cb056f407ef181a45569255348457b1a0915fc4eb23daeceb930a68a4/jellyfish-0.8.2.tar.gz
+URL = https://files.pythonhosted.org/packages/1a/a7/cbf5298fae14dbcf1a381e882175f14e8099477a091eb3bcf87cbdb33d9d/jellyfish-0.8.4.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
