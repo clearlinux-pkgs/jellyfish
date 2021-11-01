@@ -4,7 +4,7 @@
 #
 Name     : jellyfish
 Version  : 0.8.9
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/88/ee/c8c7a899960e3a116c0e0cc95aa250fb7269784a472fa590b5ce042cc48a/jellyfish-0.8.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/88/ee/c8c7a899960e3a116c0e0cc95aa250fb7269784a472fa590b5ce042cc48a/jellyfish-0.8.9.tar.gz
 Summary  : a library for doing approximate and phonetic matching of strings.
@@ -57,7 +57,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1635294513
+export SOURCE_DATE_EPOCH=1635744046
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
